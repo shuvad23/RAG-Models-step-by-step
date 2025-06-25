@@ -1,0 +1,26 @@
+# Core packages
+langchain
+langchain-community
+langchain-huggingface
+transformers
+sentence-transformers
+faiss-cpu
+
+# Optional cloud services
+openai
+google-generativeai
+google-cloud-aiplatform
+
+# UI and deployment
+streamlit
+
+
+# Language tools
+language-tool-python
+langdetect
+googletrans
+
+# Additional HuggingFace dependencies
+accelerate
+diffusers
+python-dotenv
